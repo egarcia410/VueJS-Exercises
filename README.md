@@ -7,3 +7,4 @@ Exercises to practice various VueJS tasks
 3. Open `index.html` file in any exercise folder in your web browser
 
 ### Exercise 1 - Outputting Data to Templates
+### Exercise 2 - Events
