@@ -31,9 +31,6 @@ new Vue({
       var width = 0;
       setInterval(function(){
         width = width + 10;
-        if (width == 100){
-          return;
-        }
         vm.progressBar.width = width + 'px';
       },500)
     }
