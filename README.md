@@ -9,3 +9,6 @@ Exercises to practice various VueJS tasks
 ### Exercise 1 - Outputting Data to Templates
 ### Exercise 2 - Events
 ### Exercise 3 - Reactive Properties
+### Exercise 4 - Styling
+### Exercise 5 - Conditionals & Lists
+### Exercise 6 - VueJS Instance
